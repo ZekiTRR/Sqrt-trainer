@@ -13,10 +13,13 @@ class sqrt{
 		Random rand = new Random();
 		// int x = rand.nextInt(21);
 		int y;
+		System.out.println("Enter the max value for generate root: ");
+		int value = myObj.nextInt();
+
 		while(true){
 			
 
-			int x = rand.nextInt(21);
+			int x = rand.nextInt(value);
 			System.out.println("Enter the sqrt of: " + x*x);
 			int res = myObj.nextInt();
 
