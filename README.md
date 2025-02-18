@@ -23,7 +23,7 @@ The perfect tool for schoolchildren, students, and anyone who wants to improve t
 ### Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/root-training-for-math.git
+   git clone https://github.com/ZekiTRR/Sqrt-trainer.git
    ```
 2. **Navigate to the project folder**:
    ```bash
