@@ -1,4 +1,3 @@
----
 
 # 🧮 Root Training for Math
 
